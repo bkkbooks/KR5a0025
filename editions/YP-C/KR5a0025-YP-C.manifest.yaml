@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0025/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0025/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 元始天尊說得道了身經
+  date: '2015-08-28 23:35:05.798367'
+  source:
+    repository: kanripo
+    path: KR5a0025
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0025_000-YP-C.yaml, hash: 'sha256:01d95e91ad3cb807633bf34ef205fa8eba72b40b32990a0d7beb35326c313869'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0025_000-YP-C.markers.yaml, hash: 'sha256:39a9df02f246fa135203a20effff24bca2c74c799c733fce1472417f6788cd21'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0025_YP-C_03diji-05-0053a
+    span:
+    - body
+    - 0
+    - 1304
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:35ea03fb787c7a65229102a1c79e05c8907f7df4ce5ec2861ac9b2c40108b33a
